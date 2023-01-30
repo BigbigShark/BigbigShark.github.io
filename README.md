@@ -7,7 +7,7 @@
 <!-- Education and Qualifications 教育背景（如果成绩好可以标上GPA） -->
 <div> 
 <h2>Education</h2>
-  <div style="line-height:4px;">
+  <div style="line-height:5px;">
 	<div>
 	  <p> B.S in Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, Sep.2020 - Jun.2024</p>
     	  <p> Cumulative GPA: 0.00/4.00</p>
