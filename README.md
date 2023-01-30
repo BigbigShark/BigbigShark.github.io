@@ -7,8 +7,12 @@
 <!-- Education and Qualifications 教育背景（如果成绩好可以标上GPA） -->
 <div> 
 <h2>Education</h2>
-  <p> B.S in Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, Sep.2020 - Jun.2024</p><br>
-  <p> Cumulative GPA: 0.00/4.00</p><br>
+  <div style="line-height:2px;">
+	<div>
+	  <p> B.S in Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, Sep.2020 - Jun.2024</p>
+    <p> Cumulative GPA: 0.00/4.00</p>
+	</div>
+</div>
 </div>
 
 <!-- Research Experience 研究经历 -->
@@ -34,5 +38,5 @@
 <!-- Interests 兴趣 -->
 <div> 
 <h2>Interests</h2>
-  <p>Flims, Cycling, Spinning Bike, Running, Hiking, Climbing</p><br>
+  <p>Flims, Cycling, Spinning Bike, Running, Hiking, Climbing.</p><br>
 </div>
