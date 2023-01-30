@@ -10,7 +10,7 @@
   <div style="line-height:2px;">
 	<div>
 	  <p> B.S in Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China, Sep.2020 - Jun.2024</p>
-    <p> Cumulative GPA: 0.00/4.00</p>
+    	  <p> Cumulative GPA: 0.00/4.00</p>
 	</div>
 </div>
 </div>
