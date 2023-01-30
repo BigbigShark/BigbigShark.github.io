@@ -13,7 +13,7 @@
 
 <!-- Research Experience 研究经历 -->
 <div> 
-<h2>Research Experiences</h2>
+<h2>Research Experience</h2>
 </div>
 
 <!-- Internship and Work Experiences 实习经历 -->
@@ -34,4 +34,5 @@
 <!-- Interests 兴趣 -->
 <div> 
 <h2>Interests</h2>
+  <p>Flims, Cycling, Spinning Bike, Running, Hiking, Climbing</p><br>
 </div>
